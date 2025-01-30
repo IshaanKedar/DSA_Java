@@ -11,7 +11,7 @@ public class celebrity {
         Stack<Integer> s = new Stack<>();
         int c; //celebrity
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) { //id all guests
             s.push(i);
         }
 
